@@ -1,7 +1,6 @@
 import gymnasium as gym
 import numpy as np
 import random
-import time
 
 # Create FrozenLake environment
 env = gym.make("FrozenLake-v1")
